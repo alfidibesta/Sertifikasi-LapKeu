@@ -104,7 +104,7 @@
 
             <ImageView
                 android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_height="150dp"
                 android:scaleType="centerCrop"
                 app:srcCompat="@drawable/besta" />
 
@@ -125,8 +125,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Aplikasi Ini Dibuat Oleh:\nNama : Besta Alfidi
-                    \nNim : 1841720083\nTanggal : 18 September 2022"
+                    android:text="Aplikasi Ini Dibuat Oleh:\nNama : Besta Alfidi \nNim : 1841720083\nTanggal : 18 September 2022"
                     android:textStyle="bold" />
             </LinearLayout>
         </LinearLayout>
